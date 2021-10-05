@@ -6,6 +6,7 @@ To create a summary of the Ride-sharing data by city type. This summary will inc
 ### Results
 The data shows that there have been 2,375 ride shares, 2973 drivers generating $63,538.64 in fares. 
 ![(see PyBerSummary)](https://github.com/john10roberts/Pyber_Analysis/blob/main/Resources/PyBerSummary.xlsx)
+    
     - Rural 
         - 125 Total Rides (5.26% of 2,375) 
         - 78 Drivers (2.62% of 2,973)
