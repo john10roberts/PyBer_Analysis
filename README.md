@@ -12,12 +12,14 @@ The data shows that there have been 2,375 ride shares, 2973 drivers generating $
         - $4,327.93 Fares (6.81% of $63,538.64)
         - Avg Fare Per Ride = $34.62
         - Avg Fare Per Driver = $55.49
+    
     - Suburban 
         - 625 Total Rides (26.32% of 2,375) 
         - 490 Drivers (16.48% of 2,973)
         - $19,356.33 Fares (30.46% of $63,538.64)
         - Avg Fare Per Ride = $30.97
         - Avg Fare Per Driver = $39.50
+    
     - Urban 
         - 1625 Total Rides (68.42% of 2,375) 
         - 2405 Drivers (80.89% of 2,973)
