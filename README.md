@@ -28,11 +28,11 @@ The data shows that there have been 2,375 ride shares, 2973 drivers generating $
         - Avg Fare Per Ride = $24.53
         - Avg Fare Per Driver = $16.57
 
-![District Before](https://github.com/john10roberts/PyBer_Analysis/blob/main/Resources/PyberSummaryDF.png)
+![Pyber Summary](https://github.com/john10roberts/PyBer_Analysis/blob/main/Resources/PyberSummaryDF.png)
 
 The following visualization reinforces the data above showing that the total fares by city type are not close to intersecting. However, it does show that each city type experienced some increase in fares in late Feb followed by a sharp decline in fares that lasts until the start of March. 
 
-![District Before](https://github.com/john10roberts/PyBer_Analysis/blob/main/Resources/PyberSummaryDF.png)
+![PyBer_fare_summary](https://github.com/john10roberts/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 ## Summary
